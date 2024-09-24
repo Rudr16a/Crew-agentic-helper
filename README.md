@@ -50,6 +50,6 @@ Make sure you have Python installed on your machine.
 
 ## Contributors
 
-- [Manas Chopra](https://github.com/manas95826)
+- Rudra Pratap Dash
 
 
